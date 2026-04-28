@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+/* =================================================
+   1. 色と背景の設定
+   ================================================= */
+.section-color {
+    background-color: #ee7171;
+    /* セクション全体の背景色（薄いグレー） */
+    background-image: url("images/bg.jpg");
+    /* 背景画像がある場合 */
+    background-size: cover;
+    padding: 20px;
+}
+
+.color-box {
+    color: #942c2c;
+    /* 文字色：白 */
+    background-color: #ffffff;
+    /* 背景色：青 */
+}
